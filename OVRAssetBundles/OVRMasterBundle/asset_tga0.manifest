@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 756939297
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0d0f2df1f085367f219667af698b290
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sandbox/SandboxEnv/materials/textures/sandbox_color.tga
+- Assets/Sandbox/SandboxEnv/materials/textures/sandbox_floor_color.tga
+- Assets/Sandbox/SandboxEnv/materials/textures/sandbox_norm.tga
+- Assets/Sandbox/SandboxEnv/materials/textures/sandbox_specular.tga
+- Assets/Sandbox/SandboxEnv/materials/textures/sandbox_floor_specular.tga
+- Assets/Sandbox/SandboxEnv/materials/textures/sandbox_floor_normal.tga
+Dependencies: []

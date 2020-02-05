@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3235630047
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c772f9d442b4e42af2be2a5db8f574af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e19a299b959f5b712c049d7eedf4f33
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Ulysses100/ReflectionProbe-0.exr
+- Assets/Scenes/Ulysses100/ReflectionProbe-1.exr
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 54302459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79cdbc76af58a54cc7a76024f8c36408
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 677a1d6a6e8c5d2da1d9d0fadde392d8
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Packages/com.unity.render-pipelines.lightweight/Shaders/Unlit.shader
+- Packages/com.unity.render-pipelines.lightweight/Shaders/Lit.shader
+Dependencies: []

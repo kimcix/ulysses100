@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3988262192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44a11cf6f3a341f9d5f71d8f83d3f46f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0cc77c02dfe1496769a4948062a15474
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sandbox/SandboxEnv/sandbox_environment.fbx
+Dependencies:
+- C:/Users/ryanreede/ulysses100/OVRAssetBundles/OVRMasterBundle/asset_mat0
